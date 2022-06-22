@@ -28,4 +28,4 @@ We gathered dataset from (https://www.kaggle.com/datasets/tunguz/used-car-auctio
 
 ## Business Recomendation
         - We recommend being given a promo in the form of cash back or cashback attractive vouchers so they can come back to do transaction. This is because the cost to retain customers is 5-25 times cheaper than finding new customers
-         - We recommend the accumulation of points from each flight what the customer did for one year, then the customer with the points highest (customer Important) will be given a prize draw. It is aim to keep them loyal.
+        - We recommend the accumulation of points from each flight what the customer did for one year, then the customer with the points highest (customer Important) will be given a prize draw. It is aim to keep them loyal.
