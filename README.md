@@ -1,6 +1,6 @@
 # Airline-Customer-Value-Analysis
 
-Airline Customer Value Analysis is the last project for Unsupervised Learning, Data Science Bootcamp at Rakamin Academy. I and 6 other collaborators worked together We chose to use the RFM method in making customer segmentation. This is because the RFM method is one of the customer segmentation method which is quite often used in industry. 
+Airline Customer Value Analysis is the last project for Unsupervised Learning, Data Science Bootcamp at Rakamin Academy. I and 6 other collaborators worked together. We created predictive model using K-Means Clustering and cross-validation evaluation using Principal Component Analysis (PCA) that generated 3 classes. We also gave business recommendation for each class to increase customer retention and airline sales, like:
 
 
 ## Project Background
